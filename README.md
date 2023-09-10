@@ -21,11 +21,11 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Introductory Rooms](#intro-rooms)**            | **10**          |                           |
 | **[Linux Fundamentals](#linux-fundamentals)**     | **5**           | **5**                     |
 | **[Windows Fundamentals](#windows-fundamentals)** | **3**           |                           |
-| **[Basic Rooms](#basics-rooms)**                  | **9**           |    *1*                    |
+| **[Basic Rooms](#basics-rooms)**                  | **9**           |    **1**                  |
 | **[Reconnaissance](#recon)**                      | **10**          |                           |
 | **[Scripting](#scripting)**                       | **8**           |                           |
 | **[Networking](#networking)**                     | **7**           |                           |
-| **[Tooling](#tooling)**                           | **17**          |                           |
+| **[Tooling](#tooling)**                           | **17**          |       **2**               |
 | **[Crypto & Hashes](#crypto--hashes)**            | **5**           |                           |
 | **[Steganography](#steganography)**               | **6**           |                           |
 | **[Web](#web)**                                   | **27**          |                           |
