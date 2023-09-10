@@ -25,7 +25,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Reconnaissance](#recon)**                      | **10**          |                           |
 | **[Scripting](#scripting)**                       | **8**           |                           |
 | **[Networking](#networking)**                     | **7**           |                           |
-| **[Tooling](#tooling)**                           | **17**          |       **2**               |
+| **[Tooling](#tooling)**                           | **17**          |       **4**               |
 | **[Crypto & Hashes](#crypto--hashes)**            | **5**           |                           |
 | **[Steganography](#steganography)**               | **6**           |                           |
 | **[Web](#web)**                                   | **27**          |                           |
